@@ -1,6 +1,7 @@
 # MathConvnets
 
 This repository contains code for the experiments conducted in "Why do CNNs excel at feature extraction? A mathematical explanation."
+See: https://arxiv.org/abs/2307.00919
 
 ## Instructions
 
